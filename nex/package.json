@@ -1,5 +1,5 @@
 {
-  "name": "nex-workspaces",
+  "name": "nex",
   "private": true,
   "scripts": {
     "build": "turbo build",
